@@ -1,0 +1,42 @@
+{
+    "sofaRequired": 1,
+    "armchairRequired": 1,
+    "rowLabels": [
+        "GG",
+        "FF",
+        "EE",
+        "DD",
+        "CC",
+        "BB",
+        "AA"
+    ],
+    "tmap": [
+        " LRLRLRLRLRLRLR   ",
+        "LRLRLRLRLRLRLRLRA ",
+        "LRLRLRLRLRLRLRLRAA",
+        "AALRLRLRLRLRLRLRLR",
+        "LRLRLRLRLRLRLRLRLR",
+        " LRLRLRLRLRLRLRLR ",
+        "   AAAALRLRLRA    "
+    ],
+    "umap": [
+        " OOOOOOXXOOOOOO   ",
+        "OOOOXXXXXXOOOOOOO ",
+        "OOOOOOXXXXXXOOXXOM",
+        "XXOOOOXXXXXXOOOOOO",
+        "OOOOOOXXXXXXOOOOOO",
+        " OOOOOOMMOOOOOOOO ",
+        "   XXXXXXXXXXX    "
+    ],
+    "image": "https://resizing.flixster.com/ZfGg8Ifaxc_JnLo2mYX9jGJfyl8=/206x305/v1.bTsxMjY0MDAwNztqOzE3NjUxOzEyMDA7NjAwOzg4OQ",
+    "date": "2018-03-03T15:30:00.000Z",
+    "screen": "First Class",
+    "rating": "15",
+    "runtime": 140,
+    "title": "Red Sparrow",
+    "pricing": {
+        "L": 11,
+        "R": 11,
+        "A": 15
+    }
+}

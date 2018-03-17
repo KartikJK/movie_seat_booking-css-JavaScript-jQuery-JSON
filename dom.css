@@ -1,0 +1,89 @@
+#movie-poster{
+  float:left;
+}
+/* table{
+}
+.left-sofa{
+  border-left:solid thin black;
+  border-bottom:solid thin black;
+}
+.right-sofa{
+  border-right:solid thin black;
+  border-bottom:solid thin black;
+}
+.armchair{
+  border-left:solid thin black;
+  border-right:solid thin black;
+  border-bottom:solid thin black;
+} */
+
+td{
+  min-width: 5ex;
+  height: 5ex;
+  background-size: cover; /* shrink or grow the img so the aspect ratio is respected */
+  vertical-align: top;
+}
+
+td div{
+  margin-top: 1ex;
+  font-size: xx-small;
+  margin-left: 0.5ex;
+  margin-right: 0.5ex;
+
+}
+
+.A div{
+  text-align: center;
+}
+
+.L div{
+  text-align: right;
+}
+
+.R div{
+  text-align: left;
+}
+
+.L.O{
+  background-image: url('dom_sofa_l_free.png');
+  }
+
+.R.O{
+  background-image: url('dom_sofa_r_free.png');
+}
+
+.A.O{
+  background-image: url('dom_armchair_free.png');
+}
+
+.L.X{
+  background-image: url('dom_sofa_l_taken.png');
+}
+
+.R.X{
+  background-image: url('dom_sofa_r_taken.png');
+}
+
+.A.X{
+    background-image: url('dom_armchair_taken.png');
+}
+
+.L.M{
+  background-image: url('dom_sofa_l_mine.png');
+  }
+
+.R.M{
+  background-image: url('dom_sofa_r_mine.png');
+  }
+
+.A.M{
+  background-image: url('dom_armchair_mine.png');
+  }
+
+  td.O, td.M{
+    cursor: pointer;
+  }
+
+  td.X{
+    cursor:not-allowed;
+  }
